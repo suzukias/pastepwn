@@ -44,3 +44,15 @@ Check the [bug tracker](https://github.com/d-Rickyy-b/pastepwn/issues) on GitHub
 
 - REST API for querying paste data (will be another project)
 - Add a helpful wiki with instructions and examples
+
+### Contributing
+
+Developers of any skill level can find opportunities to contribute. Bug reports, fixes, documentation improvements, enhancements, and ideas are all welcome!
+If you are interested, please refer to the [Contributing Guidelines](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md), which covers the following:
+
+- [Where to begin?](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#where-to-begin)
+- [Reporting bugs and requesting enhancements](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#reporting-bugs-and-requesting-enhancements)
+- [Getting assigned an issue](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#getting-assigned-an-issue)
+- [Editing the code](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#editing-the-code)
+- [Contributing your changes](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#contributing-your-changes)
+- [Understanding versioning](https://github.com/suzukias/pastepwn/blob/master/CONTRIBUTING.md#understanding-versioning)
